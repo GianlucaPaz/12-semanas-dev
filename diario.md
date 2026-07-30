@@ -1,5 +1,12 @@
 # Diário - Plano de 12 Semanas
 
+## 🔧 Decisões do repositório
+
+- **2026-07-30** - Convenção de commits adotada: `tipo(escopo): descricao` no infinitivo, um exercício por commit. Documento: `convencao-de-commits.md`. Os commits dos dias 1 a 3 foram reescritos com `git rebase -i` para o novo padrão — a *author date* foi preservada, a *committer date* não. Antes disso o formato era `Dia N (DD/MM) | Exercícios: X (resolvidos: Y, travei: Z)`.
+- **2026-07-30** - Repositório movido do OneDrive para `C:\dev\12-semanas-dev` (file lock quebrava operações do Git). Exercícios passam a viver em `pratica/src/` separados por origem.
+
+---
+
 ### 📆 2026-07-27 | ⌛ 90min
 
 - 📝 Tarefa 1 Semana 0 (C) | 📍Local: plano-12-semanas.pdf | 👀Travei: Não | ✅Resolvi sozinho: Sim
