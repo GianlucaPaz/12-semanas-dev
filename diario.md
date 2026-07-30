@@ -31,3 +31,16 @@
 - 📝 Beecrowd 1003 (Java) | 📍Local: https://judge.beecrowd.com/en/problems/view/1003 | 👀Travei: Não | ✅Resolvi sozinho: Sim
 
 ---
+
+### 📆 2026-07-30 | ⌛ 150 min sem IA (90 arquivo em branco + 60 reconstrução)
+
+- 📝 Beecrowd 1002 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1002 | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Beecrowd 1004 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1004 | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Beecrowd 1005 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1005 | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Beecrowd 1006 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1006 | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Conversao de tipos - Java) | 📍Local: pratica/src/javanauta/ConversaoDeTipos.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+
+#### 🔎 Extensão própria (fora da aula, só no repo local java-fundamentos): String.valueOf e "" + numero, pesquisadas em [fonte] | ❓Em aberto: o que distingue as três quando a referência é null
+#### 🎯 Pauta de amanhã: testar as três conversões com Integer x = null
+
+---
