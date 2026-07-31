@@ -44,3 +44,13 @@
 #### 🎯 Pauta de amanhã: testar as três conversões com Integer x = null
 
 ---
+
+### 📆 2026-07-31 | ⌛ 105 min sem IA (90 arquivo em branco + 15 quiz)
+
+- 📝 Beecrowd 1007 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1007 | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Beecrowd 1008 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1008 | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Beecrowd 1009 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1009 | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Beecrowd 1010 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1010 | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Quiz de Estruturas Sequenciais (Java) | 📍Local: pratica/src/javanauta/QuizEstruturasSequenciais.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+
+---
