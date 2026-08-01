@@ -7,15 +7,15 @@
 
 Código, exercícios e diário de progresso da minha prática diária de programação em Java.
 
-##  Sobre este repositório
+## 📌 Sobre este repositório
 
 Este repositório documenta minha prática de código, escrita e revisão como parte da minha preparação técnica para vagas de desenvolvedor júnior.
 
-O núcleo do processo é uma regra simples: **Os blocos de prática são escritos a partir de um arquivo vazio, com IA fechada** - sem Copilot, sem ChatGPT, sem Stack Overflow. Apenas documentação oficial (Oracle Java Docs, Spring Docs, Livros e Apostilas) é permitida.
+O núcleo do processo é uma regra simples: **🔒 Os blocos de prática são escritos a partir de um arquivo vazio, com IA fechada** - sem Copilot, sem ChatGPT, sem Stack Overflow. Apenas documentação oficial (Oracle Java Docs, Spring Docs, Livros e Apostilas) é permitida.
 
 A duração muda por fase:
 
-| Fase | Blocos sem IA                                                           | Total/dia |
+| Fase | 🔒 Blocos sem IA                                                        | Total/dia |
 |---|-------------------------------------------------------------------------|-----------|
 | 0 | período de adaptação ao cronograma da Fase 1                            | ~ 150 min |
 | 1 | arquivo em branco 90 min + reconstrução 60 min                          | 150 min   |
@@ -24,7 +24,7 @@ A duração muda por fase:
 
 Todo exercício registrado aqui foi **escrito** assim, e embora nem todos tenham sido resolvidos, o `diario.md` registra a tentativa, não o sucesso, e é essa a informação que interessa.
 
-## Estrutura
+## 📁 Estrutura
 
 ```
 12-semanas-dev/
@@ -42,7 +42,7 @@ Todo exercício registrado aqui foi **escrito** assim, e embora nem todos tenham
 └── README.md
 ```
 
-## Como ler o `diario.md`
+## 📆 Como ler o `diario.md`
 
 Cada dia de estudo segue o padrão:
 
@@ -52,7 +52,7 @@ Cada dia de estudo segue o padrão:
 
 ```
 
-## Como ler os commits
+## 🔀 Como ler os commits
 
 Convenção adotada em 30/07/2026, válida a partir do Dia 4. Commits anteriores seguem o formato antigo (`Dia N (DD/MM) | Exercícios: ...`) e não foram reescritos de propósito.
 
@@ -81,13 +81,13 @@ git log --oneline --grep="^feat"      # capacidades novas, na ordem
 
 O raciocínio completo, com os casos de fronteira e o que foi deliberadamente não adotado (SemVer, estratégia de branch), está em [`convencao-de-commits.md`](convencao-de-commits.md).
 
-## Sobre o uso de IA
+## 🤖 Sobre o uso de IA
 
 Uso IA de forma deliberada, mas nunca antes de existir uma versão minha funcionando. Primeiro escrevo sozinho; só depois abro a ferramenta para revisão e crítica, e refatoro eu mesmo com base nela (não colo o código sugerido).
 
 A inversão é o ponto: em vez de a IA escrever e eu aceitar, eu escrevo e a IA critica.
 
-## Progresso
+## 📊 Progresso
 
 Critério de execução do plano: **% de dias úteis com a regra cumprida.** Abaixo de 70% o problema não é o plano, é execução. Fim de semana é opcional e conta à parte.
 
