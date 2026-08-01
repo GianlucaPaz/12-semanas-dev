@@ -35,6 +35,7 @@ Todo exercício registrado aqui foi **escrito** assim, e embora nem todos tenham
 │       └── javanauta/
 │           ├── reconstrucao/    exemplo da aula refeito do zero, video e IDE fechados
 │           └── exercicios/      exercícios propostos pelo curso, resolvidos a mao
+├── .gitattributes
 ├── .gitignore
 ├── convencao-de-commits.md
 ├── diario.md            registro diário: minutos sem IA, exercícios, onde travei
