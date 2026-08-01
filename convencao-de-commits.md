@@ -65,7 +65,7 @@ Lista fechada.
 |---|---|
 | `beecrowd` | `pratica/src/beecrowd/` |
 | `exercism` | `pratica/src/exercism/` |
-| `javanauta` | `pratica/src/javanauta/`, reconstruções e exercícios do curso, sempre escritos do zero |
+| `javanauta` | `pratica/src/javanauta/` — `reconstrucao/` (exemplo da aula refeito do zero) e `exercicios/` (exercícios do curso resolvidos a mão) |
 | `diario` | `diario.md` |
 | *(sem escopo)* | raiz: `.gitignore`, `README.md`, config |
 
