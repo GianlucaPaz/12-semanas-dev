@@ -1,7 +1,7 @@
 # 12 Semanas Dev
 
 ![Status](https://img.shields.io/badge/Status%20do%20projeto-Em%20andamento-yellow)
-![Fase](https://img.shields.io/badge/Fase-Semana%200%20-blue)
+![Fase](https://img.shields.io/badge/Fase-Semanas%201%20a%204-blue)
 ![Linguagem](https://img.shields.io/badge/Linguagem-Java-orange)
 ![Regra](https://img.shields.io/badge/IA-Não%20permitida%20nos%20exerc%C3%ADcios-red)
 
@@ -91,10 +91,10 @@ A inversão é o ponto: em vez de a IA escrever e eu aceitar, eu escrevo e a IA 
 
 Critério de execução do plano: **% de dias úteis com a regra cumprida.** Abaixo de 70% o problema não é o plano, é execução. Fim de semana é opcional e conta à parte.
 
-| Fase | Semanas | Foco                               | % dias úteis | Status |
-|---|---|------------------------------------|--------------|---|
-| 0 | Semana 0 | Diagnóstico e período de adaptação | 100%         | 🔄 em andamento |
-| 1 · Fluência | 1 a 4 | Sintaxe, POO, algoritmos           | —            | ⏳ não iniciada |
+| Fase | Semanas | Foco                               | % dias úteis | Status          |
+|---|---|------------------------------------|--------------|-----------------|
+| 0 | Semana 0 | Diagnóstico e período de adaptação | 100%         | ✅ concluído    |
+| 1 · Fluência | 1 a 4 | Sintaxe, POO, algoritmos           | —            | 🔄 em andamento |
 | 2 · Construir | 5 a 8 | API própria com Spring Boot        | —            | ⏳ não iniciada |
 | 3 · Empregabilidade | 9 a 12 | Testes, Docker, deploy real        | —            | ⏳ não iniciada |
 
