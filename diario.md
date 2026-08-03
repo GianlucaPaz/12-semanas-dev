@@ -38,7 +38,7 @@
 - 📝 Beecrowd 1004 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1004 | 👀Travei: Não | ✅Resolvi sozinho: Sim
 - 📝 Beecrowd 1005 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1005 | 👀Travei: Não | ✅Resolvi sozinho: Sim
 - 📝 Beecrowd 1006 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1006 | 👀Travei: Não | ✅Resolvi sozinho: Sim
-- 📝 Javanauta Reconstrução da aula (Conversao de tipos - Java) | 📍Local: pratica/src/javanauta/ConversaoDeTipos.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Conversao de tipos - Java) | 📍Local: pratica/src/javanauta/reconstrucao/ConversaoDeTipos.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
 
 #### 🔎 Extensão própria (fora da aula, só no repo local java-fundamentos): String.valueOf e "" + numero, pesquisadas em [fonte] | ❓Em aberto: o que distingue as três quando a referência é null
 #### 🎯 Pauta de amanhã: testar as três conversões com Integer x = null
@@ -51,6 +51,16 @@
 - 📝 Beecrowd 1008 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1008 | 👀Travei: Não | ✅Resolvi sozinho: Sim
 - 📝 Beecrowd 1009 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1009 | 👀Travei: Não | ✅Resolvi sozinho: Sim
 - 📝 Beecrowd 1010 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1010 | 👀Travei: Não | ✅Resolvi sozinho: Sim
-- 📝 Javanauta Quiz de Estruturas Sequenciais (Java) | 📍Local: pratica/src/javanauta/QuizEstruturasSequenciais.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Quiz de Estruturas Sequenciais (Java) | 📍Local: pratica/src/javanauta/exercicios/QuizEstruturasSequenciais.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+
+---
+
+### 📆 2026-08-03 | ⌛ 90 min sem IA (30 arquivo em branco + 60 reconstrução)
+
+- 📝 Beecrowd 1011 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1011 | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Expressões comparativas - Java) | 📍Local: pratica/src/javanauta/reconstrucao/ExpressoesComparativas.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Operadores lógicos - Java) | 📍Local: pratica/src/javanauta/reconstrucao/OperadoresLogicos.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Estrutura if e else - Java) | 📍Local: pratica/src/javanauta/reconstrucao/EstruturaIfElse.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Operadores ternários - Java) | 📍Local: pratica/src/javanauta/reconstrucao/OperadorTernario.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
 
 ---
