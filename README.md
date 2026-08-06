@@ -37,6 +37,7 @@ Todo exercício registrado aqui foi **escrito** assim, e embora nem todos tenham
 │           └── reconstrucao/        exemplo da aula refeito do zero, vídeo e IDE fechados
 │               └── logica/          módulo de Lógica de Programação
 │                   ├── condicionais/
+│                   ├── repetitivas/
 │                   └── sequenciais/
 ├── .gitattributes
 ├── .gitignore
