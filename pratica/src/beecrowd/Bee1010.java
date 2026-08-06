@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Bee1010 {
     public static void main(String[] args) {
 
-        //Exercício BEE 10010 - Cálculo Simples
+        //Exercício BEE 1010 - Cálculo Simples
 
         Scanner scanner = new Scanner(System.in);
 
