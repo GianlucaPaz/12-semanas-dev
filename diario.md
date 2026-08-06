@@ -4,6 +4,7 @@
 
 - **2026-07-30** - Convenção de commits adotada: `tipo(escopo): descricao` no infinitivo, um exercício por commit. Documento: `convencao-de-commits.md`. Os commits dos dias 1 a 3 foram reescritos com `git rebase -i` para o novo padrão — a *author date* foi preservada, a *committer date* não. Antes disso o formato era `Dia N (DD/MM) | Exercícios: X (resolvidos: Y, travei: Z)`.
 - **2026-07-30** - Repositório movido do OneDrive para `C:\dev\12-semanas-dev` (file lock quebrava operações do Git). Exercícios passam a viver em `pratica/src/` separados por origem.
+- **2026-08-05** - `javanauta/` reorganizado em packages. `reconstrucao/` passa a espelhar os módulos do curso (`logica/condicionais/`, `logica/sequenciais/`), `exercicios/` segue plano. Nomes de package em minúsculo puro, conforme a convenção Java. Os caminhos das entradas anteriores foram atualizados neste arquivo; o escopo de commit continua sendo `javanauta`, sem subdivisão.
 
 ---
 
@@ -38,7 +39,7 @@
 - 📝 Beecrowd 1004 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1004 | 👀Travei: Não | ✅Resolvi sozinho: Sim
 - 📝 Beecrowd 1005 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1005 | 👀Travei: Não | ✅Resolvi sozinho: Sim
 - 📝 Beecrowd 1006 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1006 | 👀Travei: Não | ✅Resolvi sozinho: Sim
-- 📝 Javanauta Reconstrução da aula (Conversao de tipos - Java) | 📍Local: pratica/src/javanauta/reconstrucao/ConversaoDeTipos.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Conversão de tipos - Java) | 📍Local: pratica/src/javanauta/reconstrucao/logica/sequenciais/ConversaoDeTipos.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
 
 #### 🔎 Extensão própria (fora da aula, só no repo local java-fundamentos): String.valueOf e "" + numero, pesquisadas em [fonte] | ❓Em aberto: o que distingue as três quando a referência é null
 #### 🎯 Pauta de amanhã: testar as três conversões com Integer x = null
@@ -58,9 +59,28 @@
 ### 📆 2026-08-03 | ⌛ 90 min sem IA (30 arquivo em branco + 60 reconstrução)
 
 - 📝 Beecrowd 1011 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1011 | 👀Travei: Não | ✅Resolvi sozinho: Sim
-- 📝 Javanauta Reconstrução da aula (Expressões comparativas - Java) | 📍Local: pratica/src/javanauta/reconstrucao/ExpressoesComparativas.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
-- 📝 Javanauta Reconstrução da aula (Operadores lógicos - Java) | 📍Local: pratica/src/javanauta/reconstrucao/OperadoresLogicos.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
-- 📝 Javanauta Reconstrução da aula (Estrutura if e else - Java) | 📍Local: pratica/src/javanauta/reconstrucao/EstruturaIfElse.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
-- 📝 Javanauta Reconstrução da aula (Operadores ternários - Java) | 📍Local: pratica/src/javanauta/reconstrucao/OperadorTernario.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Expressões comparativas - Java) | 📍Local: pratica/src/javanauta/reconstrucao/logica/condicionais/ExpressoesComparativas.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Operadores lógicos - Java) | 📍Local: pratica/src/javanauta/reconstrucao/logica/condicionais/OperadoresLogicos.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Estrutura if e else - Java) | 📍Local: pratica/src/javanauta/reconstrucao/logica/condicionais/EstruturaIfElse.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Operador ternário - Java) | 📍Local: pratica/src/javanauta/reconstrucao/logica/condicionais/OperadorTernario.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+
+---
+
+### 📆 2026-08-04 | ⌛ 0 min sem IA
+
+- 📉 Dia em branco! 
+
+---
+
+### 📆 2026-08-05 | ⌛ 150 min sem IA (90 arquivo em branco + 60 reconstrução)
+
+- 📝 Beecrowd 1012 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1012 | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Beecrowd 1013 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1013 | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Beecrowd 1014 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1014 | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Beecrowd 1015 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1015 | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Beecrowd 1016 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1016 | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Beecrowd 1017 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1017 | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Beecrowd 1018 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1018 | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Quiz de Estruturas Condicionais (Java) | 📍Local: pratica/src/javanauta/exercicios/QuizEstruturasCondicionais.java | 👀Travei: Sim (em apenas um por falta de entendimento sobre a expressão ternária) | ☑️Resolvi sozinho: A maioria
 
 ---
