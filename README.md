@@ -30,11 +30,14 @@ Todo exercício registrado aqui foi **escrito** assim, e embora nem todos tenham
 12-semanas-dev/
 ├── pratica/
 │   └── src/
-│       ├── beecrowd/    soluções por número de problema
-│       ├── exercism/    exercícios da trilha Java
+│       ├── beecrowd/                soluções por número de problema
+│       ├── exercism/                exercícios da trilha Java
 │       └── javanauta/
-│           ├── reconstrucao/    exemplo da aula refeito do zero, video e IDE fechados
-│           └── exercicios/      exercícios propostos pelo curso, resolvidos a mao
+│           ├── exercicios/          exercícios propostos pelo curso, resolvidos a mão
+│           └── reconstrucao/        exemplo da aula refeito do zero, vídeo e IDE fechados
+│               └── logica/          módulo de Lógica de Programação
+│                   ├── condicionais/
+│                   └── sequenciais/
 ├── .gitattributes
 ├── .gitignore
 ├── convencao-de-commits.md
@@ -42,15 +45,23 @@ Todo exercício registrado aqui foi **escrito** assim, e embora nem todos tenham
 └── README.md
 ```
 
+Cada pasta direta de `pratica/src/` é um **Sources Root** independente no IntelliJ, o que mantém os pacotes das três origens isolados entre si.
+
+Dentro de `javanauta/`, a separação entre `exercicios/` e `reconstrucao/` é proposital: o primeiro guarda o que o curso pediu; o segundo guarda o que eu reescrevi do zero depois de fechar o vídeo. O segundo é o que mede fluência. Abaixo de `reconstrucao/`, a hierarquia espelha os módulos do curso, de modo que a pasta responde sozinha *de qual aula veio cada arquivo*.
+
+Nomes de package seguem a convenção Java: minúsculo puro, sem camelCase e sem underscore. Por isso `logica` e não `logicaDeProgramacao` - o nome legível já está no caminho completo.
+
 ## 📆 Como ler o `diario.md`
 
 Cada dia de estudo segue o padrão:
 
 ```
 📆 AAAA-MM-DD | ⌛ Xmin sem IA
-- 📝 [Nome do exercício] ([linguagem]) | 📍 Local: [link ou arquivo] | 👀 Travei: [Sim (motivo) / Não] | [✅/❌] Resolvi sozinho: [Sim/Não]
+- 📝 [Nome do exercício] ([linguagem]) | 📍 Local: [link ou arquivo] | 👀 Travei: [Sim (motivo) / Não] | [✅/☑️/✖️/❌] Resolvi sozinho: [Sim/A maioria/A minoria/Não]
 
 ```
+
+Caminhos de arquivo são relativos à raiz do repositório. Quando a estrutura de pastas muda, as entradas antigas são atualizadas junto e a mudança fica registrada em **Decisões do repositório**, no topo do arquivo - o histórico de estudo continua navegável, e a decisão de reorganizar fica datada.
 
 ## 🔀 Como ler os commits
 
@@ -69,6 +80,8 @@ tipo(escopo): descricao no infinitivo
 | `chore` | config, pasta, arquivo movido                                                                |
 
 Escopos: `beecrowd` · `exercism` · `javanauta` · `diario` · sem escopo para a raiz.
+
+O escopo acompanha a **origem** do conteúdo, não a subpasta: tudo sob `pratica/src/javanauta/` usa `javanauta`, independente do módulo. Subdividir o escopo por package seria granularidade sem uso.
 
 Regras: infinitivo, minúscula inicial, sem ponto final, sem acento, até ~50 caracteres. Teste: se a palavra não encaixa depois de *"este commit irá ___"*, está errada.
 
