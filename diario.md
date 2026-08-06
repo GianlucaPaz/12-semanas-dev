@@ -84,3 +84,13 @@
 - 📝 Javanauta Quiz de Estruturas Condicionais (Java) | 📍Local: pratica/src/javanauta/exercicios/QuizEstruturasCondicionais.java | 👀Travei: Sim (em apenas um por falta de entendimento sobre a expressão ternária) | ☑️Resolvi sozinho: A maioria
 
 ---
+
+### 📆 2026-08-06 | ⌛ 150 min sem IA (90 arquivo em branco + 60 reconstrução)
+
+- 📝 Tarefa 2 Semana 0 (Java) | 📍Local: plano-12-semanas.pdf | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Tarefa 3 Semana 0 (Java) | 📍Local: plano-12-semanas.pdf | 👀Travei: Sim (conteúdo ainda não aprendido) | ❌Resolvi sozinho: Não
+- 📝 Javanauta Reconstrução da aula (While e Do-While - Java) | 📍Local: pratica/src/javanauta/reconstrucao/logica/repetitivas/While.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (For - Java) | 📍Local: pratica/src/javanauta/reconstrucao/logica/repetitivas/For.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Arrays - Java) | 📍Local: pratica/src/javanauta/reconstrucao/logica/repetitivas/Arrays.java | 👀Travei: Sim (nas várias formas de inicialização e no for-each) | ☑️Resolvi sozinho: A maioria
+
+---
