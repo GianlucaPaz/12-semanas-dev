@@ -1,4 +1,4 @@
-package reconstrucao;
+package reconstrucao.logica.condicionais;
 
 import java.util.Scanner;
 

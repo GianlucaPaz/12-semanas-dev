@@ -1,4 +1,4 @@
-package reconstrucao;
+package reconstrucao.logica.condicionais;
 
 public class OperadoresLogicos {
     public static void main(String[] args) {
