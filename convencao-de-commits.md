@@ -1,6 +1,9 @@
 # Convenção de Commits - `12-semanas-dev`
 
 Decidido em 30/07/2026. Vale a partir do Dia 4.
+
+Revisto em 07/08/2026: o escopo `diario` passa a usar data ISO no lugar do dia sequencial (seção 4).
+
 Escopo: **só mensagem de commit.** Branch e versionamento ficam de fora de propósito, ver seção 7.
 
 ---
@@ -61,13 +64,15 @@ Lista fechada.
 
 ## 4. Os escopos
 
-| Escopo | Cobre |
-|---|---|
-| `beecrowd` | `pratica/src/beecrowd/` |
-| `exercism` | `pratica/src/exercism/` |
-| `javanauta` | `pratica/src/javanauta/` — `reconstrucao/` (exemplo da aula refeito do zero) e `exercicios/` (exercícios do curso resolvidos a mão) |
-| `diario` | `diario.md` |
-| *(sem escopo)* | raiz: `.gitignore`, `README.md`, config |
+| Escopo | Cobre                                                                                                                               |
+|---|-------------------------------------------------------------------------------------------------------------------------------------|
+| `beecrowd` | `pratica/src/beecrowd/`                                                                                                             |
+| `exercism` | `pratica/src/exercism/`                                                                                                             |
+| `javanauta` | `pratica/src/javanauta/` - `reconstrucao/` (exemplo da aula refeito do zero) e `exercicios/` (exercícios do curso resolvidos a mão) |
+| `diario` | `diario.md` - descrição usa a data ISO do registro (`registrar 2026-08-06`), nunca numeração sequencial                             |
+| *(sem escopo)* | raiz: `.gitignore`, `README.md`, config                                                                                             |
+
+Sequencial exige contar dias úteis desde 27/07 e dessincroniza na primeira falha; a data é autoevidente e nunca precisa de `--force`. O número do dia vive no Sheets, onde é recalculável.
 
 O escopo é o que impede o `feat:` de virar ruído num repo onde quase todo commit é exercício. Ele também habilita `git log --oneline --grep="beecrowd"`.
 
@@ -99,7 +104,7 @@ git add pratica/src/beecrowd/Bee1005.java
 git commit -m "feat(beecrowd): resolver 1005"
 
 git add diario.md
-git commit -m "docs(diario): registrar dia 5"
+git commit -m "docs(diario): registrar 2026-08-05"
 
 git push
 ```
@@ -107,7 +112,7 @@ git push
 Dia sem exercício resolvido tem um commit só, e isso é o dado:
 
 ```
-docs(diario): registrar dia 7 sem exercicio concluido
+docs(diario): registrar 2026-08-07 sem exercicio concluido
 ```
 
 Commit de estrutura fica separado do commit do dia:
