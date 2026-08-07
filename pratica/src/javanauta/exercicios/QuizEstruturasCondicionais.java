@@ -40,8 +40,8 @@ public class QuizEstruturasCondicionais {
         //4) Qual é a saída do seguinte código?
 
         int num = 7;
-        String resultado = (num) ? "Par" : "Ímpar";
-        System.out.println(resultado);
+        //String resultado = (num) ? "Par" : "Ímpar";
+        //System.out.println(resultado);
 
         /*
         - Resposta: Erro de compilação
