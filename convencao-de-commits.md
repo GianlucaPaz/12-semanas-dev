@@ -69,7 +69,7 @@ Lista fechada.
 | `beecrowd` | `pratica/src/beecrowd/`                                                                                                             |
 | `exercism` | `pratica/src/exercism/`                                                                                                             |
 | `javanauta` | `pratica/src/javanauta/` - `reconstrucao/` (exemplo da aula refeito do zero) e `exercicios/` (exercícios do curso resolvidos a mão) |
-| `diario` | `diario.md` - descrição usa a data ISO do registro (`registrar 2026-08-06`), nunca numeração sequencial                             |
+| `diario` | `diario.md` - descrição usa a data ISO do registro (`registrar dia 2026-08-06`), nunca numeração sequencial                         |
 | *(sem escopo)* | raiz: `.gitignore`, `README.md`, config                                                                                             |
 
 Sequencial exige contar dias úteis desde 27/07 e dessincroniza na primeira falha; a data é autoevidente e nunca precisa de `--force`. O número do dia vive no Sheets, onde é recalculável.
@@ -104,7 +104,7 @@ git add pratica/src/beecrowd/Bee1005.java
 git commit -m "feat(beecrowd): resolver 1005"
 
 git add diario.md
-git commit -m "docs(diario): registrar 2026-08-05"
+git commit -m "docs(diario): registrar dia 2026-08-05"
 
 git push
 ```
@@ -112,7 +112,7 @@ git push
 Dia sem exercício resolvido tem um commit só, e isso é o dado:
 
 ```
-docs(diario): registrar 2026-08-07 sem exercicio concluido
+docs(diario): registrar dia 2026-08-07 sem exercicio concluido
 ```
 
 Commit de estrutura fica separado do commit do dia:
