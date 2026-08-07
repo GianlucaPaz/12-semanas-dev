@@ -94,3 +94,12 @@
 - 📝 Javanauta Reconstrução da aula (Arrays - Java) | 📍Local: pratica/src/javanauta/reconstrucao/logica/repetitivas/Arrays.java | 👀Travei: Sim (nas várias formas de inicialização e no for-each) | ☑️Resolvi sozinho: A maioria
 
 ---
+
+### 📆 2026-08-07 | ⌛ 270 min sem IA (90 arquivo em branco + 180 reconstrução)
+
+- 📝 Beecrowd 1018 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1018 | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Beecrowd 1019 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1019 | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Beecrowd 1020 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1020 | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Collections ArrayList - Java) | 📍Local: pratica/src/javanauta/reconstrucao/logica/repetitivas/CollectionsArrayList.java | 👀Travei: Sim (no uso de alguns métodos e no uso do forEach) | ☑️Resolvi sozinho: A maioria
+
+---
