@@ -80,7 +80,7 @@
 - 📝 Beecrowd 1015 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1015 | 👀Travei: Não | ✅Resolvi sozinho: Sim
 - 📝 Beecrowd 1016 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1016 | 👀Travei: Não | ✅Resolvi sozinho: Sim
 - 📝 Beecrowd 1017 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1017 | 👀Travei: Não | ✅Resolvi sozinho: Sim
-- 📝 Beecrowd 1018 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1018 | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Beecrowd 1018 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1018 | 👀Travei: Sim | ❌Resolvi sozinho: Não
 - 📝 Javanauta Quiz de Estruturas Condicionais (Java) | 📍Local: pratica/src/javanauta/exercicios/QuizEstruturasCondicionais.java | 👀Travei: Sim (em apenas um por falta de entendimento sobre a expressão ternária) | ☑️Resolvi sozinho: A maioria
 
 ---
