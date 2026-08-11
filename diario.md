@@ -103,3 +103,12 @@
 - 📝 Javanauta Reconstrução da aula (Collections ArrayList - Java) | 📍Local: pratica/src/javanauta/reconstrucao/logica/repetitivas/CollectionsArrayList.java | 👀Travei: Sim (no uso de alguns métodos e no uso do forEach) | ☑️Resolvi sozinho: A maioria
 
 ---
+
+### 📆 2026-08-10 | ⌛ 150 min sem IA (arquivo em branco)
+
+- 📝 Beecrowd 1021 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1021 | 👀Travei: Sim (erro ao utilizar double para fazer cálculos monetários) | ☑️Resolvi sozinho: A maioria
+- 📝 Beecrowd 1021 Refatorado (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1021 | 👀Travei: Sim (faltou conhecimento sobre a abordagem de cálculo monetário + uso do for-each) | ✖️Resolvi sozinho: A minoria
+
+#### 🔎 Extensão própria (só no repo local java-fundamentos): Foi produzido o material ponto-flutuante-e-valores-monetarios como aprendizado a partir das dúvidas oriundas do exercício Bee 1021
+
+---
