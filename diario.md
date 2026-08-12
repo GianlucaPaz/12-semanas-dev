@@ -112,3 +112,12 @@
 #### 🔎 Extensão própria (só no repo local java-fundamentos): Foi produzido o material ponto-flutuante-e-valores-monetarios como aprendizado a partir das dúvidas oriundas do exercício Bee 1021
 
 ---
+
+### 📆 2026-08-11 | ⌛ 150 min sem IA (60 arquivo em branco + 90 reconstrução)
+
+- 📝 Beecrowd 1035 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1035 | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Beecrowd 1036 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1036 | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (HashMap e TreeMap - Java) | 📍Local: pratica/src/javanauta/reconstrucao/logica/repetitivas/HashMapTreeMap.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Quiz de Estruturas Repetitivas (Java) | 📍Local: pratica/src/javanauta/exercicios/QuizEstruturasRepetitivas.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+
+---
