@@ -121,3 +121,11 @@
 - 📝 Javanauta Quiz de Estruturas Repetitivas (Java) | 📍Local: pratica/src/javanauta/exercicios/QuizEstruturasRepetitivas.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
 
 ---
+
+### 📆 2026-08-12 | ⌛ 90 min sem IA (arquivo em branco)
+
+- 📝 Javanauta Revisãode Lógica - Exercício 1 (Java) | 📍Local: pratica/src/javanauta/exercicios/RevisaoLogicaExercicio1.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Revisãode Lógica - Exercício 2 (Java) | 📍Local: pratica/src/javanauta/exercicios/RevisaoLogicaExercicio2.java | 👀Travei: Sim (Aprender/Revisar o conteúdo de manipulação de String e Métodos de String) | ❌Resolvi sozinho: Não
+- 📝 Javanauta Revisãode Lógica - Exercício 3 (Java) | 📍Local: pratica/src/javanauta/exercicios/RevisaoLogicaExercicio3.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+
+---
