@@ -35,10 +35,11 @@ Todo exercício registrado aqui foi **escrito** assim, e embora nem todos tenham
 │       └── javanauta/
 │           ├── exercicios/          exercícios propostos pelo curso, resolvidos a mão
 │           └── reconstrucao/        exemplo da aula refeito do zero, vídeo e IDE fechados
-│               └── logica/          módulo de Lógica de Programação
-│                   ├── condicionais/
-│                   ├── repetitivas/
-│                   └── sequenciais/
+│               ├── logica/          módulo de Lógica de Programação
+│               │   ├── condicionais/
+│               │   ├── repetitivas/
+│               │   └── sequenciais/
+│               └── poo/             módulo de Programação Orientada a Objetos
 ├── .gitattributes
 ├── .gitignore
 ├── convencao-de-commits.md
