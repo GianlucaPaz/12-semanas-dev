@@ -136,3 +136,18 @@
 - 📝 Javanauta Revisãode Lógica - Exercício 5 (Java) | 📍Local: pratica/src/javanauta/exercicios/RevisaoLogicaExercicio5.java | 👀Travei: Sim (Revisar Switch-Case e manipulação de entradas com String + int, long, double) | ☑️Resolvi sozinho: A maioria
 - 📝 Javanauta Reconstrução da aula (Objetos - Java) | 📍Local: pratica/src/javanauta/reconstrucao/poo/AulaObjetos.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
 - 📝 Javanauta Reconstrução da aula (Métodos - Modificadores de Acesso, Tipos de Retorno e Como nomear Métodos - Java) | 📍Local: pratica/src/javanauta/reconstrucao/poo/Metodos.java | 👀Travei: Sim (Esqueci do uso do return dentro do método) | ☑️Resolvi sozinho: A maioria
+
+---
+
+### 📆 2026-08-14 | ⌛ 0 min sem IA 
+
+- 📉 Dia em branco! 
+
+---
+
+### 📆 2026-08-17 | ⌛ 90 min sem IA (90 arquivo em branco)
+
+- 📝 Beecrowd 1037 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1037 | 👀Travei: Sim (Detalhe bobo: Esqueci que não podia passar do 100 e não detectei o erro) | ☑️Resolvi sozinho: A maioria
+- 📝 Beecrowd 1038 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1038 | 👀Travei: Sim (Tenho uma ideia clara do que fazer mas prreciso revisar o conteúdo de HashMap e TreeMap) | ❌Resolvi sozinho: Não
+
+---
