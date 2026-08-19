@@ -124,16 +124,16 @@
 
 ### 📆 2026-08-12 | ⌛ 90 min sem IA (arquivo em branco)
 
-- 📝 Javanauta Revisãode Lógica - Exercício 1 (Java) | 📍Local: pratica/src/javanauta/exercicios/RevisaoLogicaExercicio1.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
-- 📝 Javanauta Revisãode Lógica - Exercício 2 (Java) | 📍Local: pratica/src/javanauta/exercicios/RevisaoLogicaExercicio2.java | 👀Travei: Sim (Aprender/Revisar o conteúdo de manipulação de String e Métodos de String) | ❌Resolvi sozinho: Não
-- 📝 Javanauta Revisãode Lógica - Exercício 3 (Java) | 📍Local: pratica/src/javanauta/exercicios/RevisaoLogicaExercicio3.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Revisão de Lógica - Exercício 1 (Java) | 📍Local: pratica/src/javanauta/exercicios/RevisaoLogicaExercicio1.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Revisão de Lógica - Exercício 2 (Java) | 📍Local: pratica/src/javanauta/exercicios/RevisaoLogicaExercicio2.java | 👀Travei: Sim (Aprender/Revisar o conteúdo de manipulação de String e Métodos de String) | ❌Resolvi sozinho: Não
+- 📝 Javanauta Revisão de Lógica - Exercício 3 (Java) | 📍Local: pratica/src/javanauta/exercicios/RevisaoLogicaExercicio3.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
 
 ---
 
 ### 📆 2026-08-13 | ⌛ 150 min sem IA (90 arquivo em branco + 60 reconstrução)
 
-- 📝 Javanauta Revisãode Lógica - Exercício 4 (Java) | 📍Local: pratica/src/javanauta/exercicios/RevisaoLogicaExercicio4.java | 👀Travei: Sim (Revisar conteúdo de operador ternário - passar o olho e ver onde é melhor aplicado) | ☑️Resolvi sozinho: A maioria
-- 📝 Javanauta Revisãode Lógica - Exercício 5 (Java) | 📍Local: pratica/src/javanauta/exercicios/RevisaoLogicaExercicio5.java | 👀Travei: Sim (Revisar Switch-Case e manipulação de entradas com String + int, long, double) | ☑️Resolvi sozinho: A maioria
+- 📝 Javanauta Revisão de Lógica - Exercício 4 (Java) | 📍Local: pratica/src/javanauta/exercicios/RevisaoLogicaExercicio4.java | 👀Travei: Sim (Revisar conteúdo de operador ternário - passar o olho e ver onde é melhor aplicado) | ☑️Resolvi sozinho: A maioria
+- 📝 Javanauta Revisão de Lógica - Exercício 5 (Java) | 📍Local: pratica/src/javanauta/exercicios/RevisaoLogicaExercicio5.java | 👀Travei: Sim (Revisar Switch-Case e manipulação de entradas com String + int, long, double) | ☑️Resolvi sozinho: A maioria
 - 📝 Javanauta Reconstrução da aula (Objetos - Java) | 📍Local: pratica/src/javanauta/reconstrucao/poo/AulaObjetos.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
 - 📝 Javanauta Reconstrução da aula (Métodos - Modificadores de Acesso, Tipos de Retorno e Como nomear Métodos - Java) | 📍Local: pratica/src/javanauta/reconstrucao/poo/Metodos.java | 👀Travei: Sim (Esqueci do uso do return dentro do método) | ☑️Resolvi sozinho: A maioria
 
@@ -149,5 +149,13 @@
 
 - 📝 Beecrowd 1037 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1037 | 👀Travei: Sim (Detalhe bobo: Esqueci que não podia passar do 100 e não detectei o erro) | ☑️Resolvi sozinho: A maioria
 - 📝 Beecrowd 1038 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1038 | 👀Travei: Sim (Tenho uma ideia clara do que fazer mas prreciso revisar o conteúdo de HashMap e TreeMap) | ❌Resolvi sozinho: Não
+
+---
+
+### 📆 2026-08-18 | ⌛ 120 min sem IA (arquivo em branco)
+
+- 📝 Javanauta Revisão de Lógica - Exercício 1 (Java) | 📍Local: pratica/src/javanauta/exercicios/RevisaoLogicaExercicio1.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+
+#### 🔎 Extensão própria: Foi produzido um material de resumo sobre Lógica de Programação (não finalizado)
 
 ---
