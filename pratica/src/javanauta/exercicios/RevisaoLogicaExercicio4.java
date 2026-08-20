@@ -17,33 +17,71 @@ public class RevisaoLogicaExercicio4 {
         ============================================================================================================================================
         */
 
+        /*========================================================================================================================================*/
+
+        //RESOLUÇÃO:
+
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Digite o peso do pacote em kg para obter o valor do frete: ");
-        int peso = scanner.nextInt();
+        System.out.println("=====================================================");
+        System.out.print("   - Digite o peso em kg: ");
+        double peso = scanner.nextDouble();
 
-        if (peso <= 5) {
-            System.out.println("VALOR DO FRETE: R$ 15,00");
+        while (peso <= 0) {
+            System.out.println("   ==================================================");
+            System.out.println("   PESO INVÁLIDO! DIGITE UM VALOR MAIOR QUE ZERO!");
+            System.out.println("   ==================================================");
+            System.out.print("   - Digite o peso em kg: ");
+            peso = scanner.nextDouble();
         }
-        else if (peso <= 20) {
-            System.out.println("VALOR DE FRETE: R$ 25,00");
-        }
-        else {
-            System.out.println("VALOR DE FRETE: R$ 40,00");
-        }
-        System.out.println("===============================================================");
 
-        String resposta = peso <= 5 ? "VALOR DO FRETE: R$ 15,00" : peso <= 20 ? "VALOR DE FRETE: R$ 25,00" : "VALOR DE FRETE: R$ 40,00";
-        System.out.println(resposta);
+        System.out.println("=====================================================");
 
-        //-> Eu levaria para produção a versão com ternário aninhado, pois é mais rápido e enxuto, já que em uma única linha é feita a verificação das condições e apresenta uma única linha de print.
+        //1) Versão com if-else
+        System.out.println("1) Versão com if-else                               |");
+        System.out.println("----------------------------------------------------|");
+
+        //Calculo Do frete a partir do peso em kg
+        if (peso <= 5) {                                //Frete = R$15,00 (peso > 0 && peso <= 5)
+            System.out.println("   - FRETE = R$15,00");
+        }
+        else if (peso <= 20) {                          //Frete = R$25,00 (peso > 5 && peso <= 20)
+            System.out.println("   - FRETE = R$25,00");
+        }
+        else {                                          //Frete = R$40,00 (peso > 20)
+            System.out.println("   - FRETE = R$40,00");
+        }
+
+        System.out.println("=====================================================");
+
+        //2) Versão com ternário aninhado
+        System.out.println("=====================================================");
+        System.out.println("2) Versão com ternário aninhado                     |");
+        System.out.println("----------------------------------------------------|");
+
+        //Calculo Do frete a partir do peso em kg
+        String frete = (peso <= 5)  ? "   - FRETE = R$15,00" :  //Frete = R$15,00 (peso > 0 && peso <= 5)
+                (peso <= 20) ? "   - FRETE = R$25,00" :  //Frete = R$25,00 (peso > 5 && peso <= 20)
+                        "   - FRETE = R$40,00";   //Frete = R$40,00 (peso > 20)
+
+        System.out.println(frete);
+
+        /*
+        ============================================================================================================================================================================
+        1) Qual das duas você levaria para produção e por quê?
+
+           Para três faixas fixas, o ternário resolve. Para faixa de frete em produção, eu não usaria nenhuma das duas e faria o seguinte:
+
+           Os limites e preços virariam uma tabela percorrida em laço, porque a regra muda com frequência e alterá-la não deveria exigir tocar em lógica nem recompilar.
+
+        ============================================================================================================================================================================
+        */
 
         /*
         ==========================================================================================================
         STATUS: ✅ EXERCÍCIO CONCLUÍDO!
         ==========================================================================================================
-        AVALIAÇÃO (2026/08/13): Revisar conteúdo de operador ternário (passar o olho e ver onde é melhor aplicado)
-        ==========================================================================================================
         */
+
     }
 }
