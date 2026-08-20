@@ -159,3 +159,9 @@
 #### 🔎 Extensão própria: Foi produzido um material de resumo sobre Lógica de Programação (não finalizado)
 
 ---
+
+### 📆 2026-08-19 | ⌛ 120 min sem IA (arquivo em branco)
+
+- 📝 Javanauta Revisão de Lógica - Exercício 3 (Java) | 📍Local: pratica/src/javanauta/exercicios/RevisaoLogicaExercicio3.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+
+---
