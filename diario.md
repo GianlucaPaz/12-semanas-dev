@@ -165,3 +165,11 @@
 - 📝 Javanauta Revisão de Lógica - Exercício 3 (Java) | 📍Local: pratica/src/javanauta/exercicios/RevisaoLogicaExercicio3.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
 
 ---
+
+### 📆 2026-08-20 | ⌛ 120 min sem IA (arquivo em branco)
+
+- 📝 Javanauta Revisão de Lógica - Exercício 4 (Java) | 📍Local: pratica/src/javanauta/exercicios/RevisaoLogicaExercicio4.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+
+#### 🔎 Extensão própria: Continuação e melhoria do material de resumo sobre Lógica de Programação
+
+---
