@@ -145,7 +145,7 @@
 
 ---
 
-### 📆 2026-08-17 | ⌛ 90 min sem IA (90 arquivo em branco)
+### 📆 2026-08-17 | ⌛ 90 min sem IA (arquivo em branco)
 
 - 📝 Beecrowd 1037 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1037 | 👀Travei: Sim (Detalhe bobo: Esqueci que não podia passar do 100 e não detectei o erro) | ☑️Resolvi sozinho: A maioria
 - 📝 Beecrowd 1038 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1038 | 👀Travei: Sim (Tenho uma ideia clara do que fazer mas prreciso revisar o conteúdo de HashMap e TreeMap) | ❌Resolvi sozinho: Não
@@ -179,5 +179,12 @@
 - 📝 Javanauta Revisão de Lógica - Exercício 6 (Java) | 📍Local: pratica/src/javanauta/exercicios/RevisaoLogicaExercicio6.java | 👀Travei: Sim (Na parte de otimizar o código) | ☑️Resolvi sozinho: A maioria
 
 #### 🔎 Extensão própria: Continuação e melhoria do material de resumo sobre Lógica de Programação
+
+---
+
+### 📆 2026-08-25 | ⌛ 120 min sem IA (reconstrução)
+
+- 📝 Javanauta Reconstrução da aula (Métodos - Parâmetros de Métodos, Métodos de Instância e Métodos Estáticos - Java) | 📍Local: pratica/src/javanauta/reconstrucao/poo/Metodos.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Métodos - Métodos de Instância e Métodos Estáticos - Java) | 📍Local: pratica/src/javanauta/reconstrucao/poo/MetodoEstatico.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
 
 ---
