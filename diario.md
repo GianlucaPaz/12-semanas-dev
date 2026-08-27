@@ -188,3 +188,11 @@
 - 📝 Javanauta Reconstrução da aula (Métodos - Métodos de Instância e Métodos Estáticos - Java) | 📍Local: pratica/src/javanauta/reconstrucao/poo/MetodoEstatico.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
 
 ---
+
+### 📆 2026-08-26 | ⌛ 150 min sem IA (90 arquivo em branco + 60 reconstrução)
+
+- 📝 Beecrowd 1038 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1038 | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Classes, Pacotes e Interfaces - Java) | 📍Local: pratica/src/javanauta/reconstrucao/poo/ClassesInterfacesPacotes.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Classes, Pacotes e Interfaces - Java) | 📍Local: pratica/src/javanauta/reconstrucao/poo/InterfaceMatematica.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+
+---
