@@ -196,3 +196,13 @@
 - 📝 Javanauta Reconstrução da aula (Classes, Pacotes e Interfaces - Java) | 📍Local: pratica/src/javanauta/reconstrucao/poo/InterfaceMatematica.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
 
 ---
+
+### 📆 2026-08-27 | ⌛ 150 min sem IA (90 arquivo em branco + 60 reconstrução)
+
+- 📝 Beecrowd 1040 (Java) | 📍Local: https://judge.beecrowd.com/pt/problems/view/1038 | 👀Travei: Sim (falta acertar a questão do calculo com long e double) | ❌Resolvi sozinho: Não
+- 📝 Tarefa 3 Semana 0 / Semana 1 (Java) | 📍Local: plano-12-semanas.pdf | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Tarefa 4 Semana 0 / Semana 1 (Java) | 📍Local: plano-12-semanas.pdf | 👀Travei: Sim (esqueci partes da estrutura de ArrayList e for-each) | ☑️Resolvi sozinho: A maioria
+- 📝 Javanauta Reconstrução da aula (Encapsulamento - Java) | 📍Local: pratica/src/javanauta/reconstrucao/poo/encapsulamento/ContaBancaria.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Encapsulamento - Java) | 📍Local: pratica/src/javanauta/reconstrucao/poo/encapsulamento/AgenciaBancaria.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+
+---
