@@ -40,6 +40,7 @@ Todo exercício registrado aqui foi **escrito** assim, e embora nem todos tenham
 │               │   ├── repetitivas/
 │               │   └── sequenciais/
 │               └── poo/             módulo de Programação Orientada a Objetos
+│                   └── encapsulamento/
 ├── .gitattributes
 ├── .gitignore
 ├── convencao-de-commits.md
