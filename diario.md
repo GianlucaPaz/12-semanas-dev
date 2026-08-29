@@ -206,3 +206,16 @@
 - 📝 Javanauta Reconstrução da aula (Encapsulamento - Java) | 📍Local: pratica/src/javanauta/reconstrucao/poo/encapsulamento/AgenciaBancaria.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
 
 ---
+
+### 📆 2026-08-28 | ⌛ 150 min sem IA (reconstrução)
+
+- 📝 Javanauta Reconstrução da aula (Herança - Java) | 📍Local: pratica/src/javanauta/reconstrucao/poo/heranca/Principal.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Herança - Java) | 📍Local: pratica/src/javanauta/reconstrucao/poo/heranca/Animal.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Herança - Java) | 📍Local: pratica/src/javanauta/reconstrucao/poo/heranca/Gato.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Herança - Java) | 📍Local: pratica/src/javanauta/reconstrucao/poo/heranca/Cavalo.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Polimorfismo - Java) | 📍Local: pratica/src/javanauta/reconstrucao/poo/polimorfismo/Principal.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Polimorfismo - Java) | 📍Local: pratica/src/javanauta/reconstrucao/poo/polimorfismo/Calculadora.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Polimorfismo - Java) | 📍Local: pratica/src/javanauta/reconstrucao/poo/polimorfismo/Veiculo.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Polimorfismo - Java) | 📍Local: pratica/src/javanauta/reconstrucao/poo/polimorfismo/Aviao.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+
+---
