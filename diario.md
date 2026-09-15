@@ -219,3 +219,38 @@
 - 📝 Javanauta Reconstrução da aula (Polimorfismo - Java) | 📍Local: pratica/src/javanauta/reconstrucao/poo/polimorfismo/Aviao.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
 
 ---
+
+### 📆 2026-08-29 a 2026-09-03 (fins de semana: 29-30/08, 05-06/09) | ⌛ dia dedicado a processo seletivo
+
+- 📝 Processo seletivo | Preparação para a prova do trainee Itaú 2027 — raciocínio lógico e abstrato, sequências, lógica dedutiva, conjuntos, quantitativo, probabilidade e contagem (permutação, arranjo, combinação, anagramas), PA e PG, tabelas e gráficos, raciocínio verbal, atenção e precisão
+
+---
+
+### 📆 2026-09-04 | ⌛ dia dedicado a processo seletivo
+
+- 📝 Processo seletivo | Prova do Itaú realizada
+
+---
+
+### 📆 2026-09-05 a 2026-09-08 | ⌛ dia de pausa
+
+- 😴 Pausa declarada | Descanso mental pós-processo seletivo
+
+---
+
+### 📆 2026-09-09 a 2026-09-13 | ⌛ pausa forçada
+
+- 🤕 Indisposição | Sem condições de estudo
+
+---
+
+### 📆 2026-09-14 | ⌛ 90 min sem IA (arquivo em branco)
+
+- 📝 Diagnóstico CSV (Java) - Tarefa 1 | 📍Local: pratica/src/diagnostico/fase1/tarefa1/Tarefa1.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Diagnóstico CSV (Java) - Tarefa 2 | 📍Local: pratica/src/diagnostico/fase1/tarefa2/Tarefa2.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Diagnóstico CSV (Java) - Tarefa 3 | 📍Local: pratica/src/diagnostico/fase1/tarefa3/Item.java | 👀Travei: Não | ✅Resolvi sozinho: Sim 
+- 📝 Diagnóstico CSV (Java) - Tarefa 3 | 📍Local: pratica/src/diagnostico/fase1/tarefa3/Principal.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Diagnóstico CSV (Java) - Tarefa 4 | 📍Local: pratica/src/diagnostico/fase1/tarefa4/Tarefa4.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Diagnóstico CSV (Java) - Tarefa 5 | 📍Local: pratica/src/diagnostico/fase1/tarefa5/Tarefa5.java | 👀Travei: Sim (Decomposição. Algoritmo correto em português; travamento na tradução para Java: comparação de String, constante única para a categoria e papel das variáveis) | ❌Resolvi sozinho: Não
+
+---
