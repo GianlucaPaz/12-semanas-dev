@@ -254,3 +254,11 @@
 - 📝 Diagnóstico CSV (Java) - Tarefa 5 | 📍Local: pratica/src/diagnostico/fase1/tarefa5/Tarefa5.java | 👀Travei: Sim (Decomposição. Algoritmo correto em português; travamento na tradução para Java: comparação de String, constante única para a categoria e papel das variáveis) | ❌Resolvi sozinho: Não
 
 ---
+
+### 📆 2026-09-15 | ⌛ dia produtivo que não teve arquivo em branco
+
+- 📝 POO — aulas do módulo (em andamento, restam 3 aulas) | 📍Local: — | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Áudio explicativo dos 3 conceitos (Herança, Polimorfismo, Interface) — gravado e ouvido | 📍Local: Local externo ao repositório | 👀Travei: Não, contudo cabe a melhoria do ritmo da explicação, que ficou muito lento | ✅Resolvi sozinho: Sim
+- 📝 Anotações das hesitações do áudio | 📍Local: Local externo ao repositório | 👀Travei: Não | ✅Resolvi sozinho: Sim
+
+---
