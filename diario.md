@@ -262,3 +262,10 @@
 - 📝 Anotações das hesitações do áudio | 📍Local: Local externo ao repositório | 👀Travei: Não | ✅Resolvi sozinho: Sim
 
 ---
+
+### 📆 2026-09-16 | ⌛ 90 min sem IA (arquivo em branco)
+
+- 📝 Diagnóstico CSV (Java) - Tarefa 5 | 📍Local: pratica/src/diagnostico/fase1/tarefa5/Tarefa5.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Estudo do conteúdo relativo à perguntas de exercícios | 1) Por que a variável que acumula a soma precisa existir antes do laço? ; 2) Por que double não serve para valor monetário?
+
+---
