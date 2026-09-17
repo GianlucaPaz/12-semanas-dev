@@ -1,15 +1,30 @@
 package fase1.tarefa5;
 
+import fase1.tarefa3.Item;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class Tarefa5 {
+    public static void main(String[] args) {
 
-    /*
-    - A lista será criada com os objetos (itens)
-    - Uma variável soma e uma variável verificador serão inicializadas antes do laço
-    - Um for-each vai percorrer a lista e em cada item vai verificar a categoria através de um item.getCategoria
-    - A informação da categoria será armazenada em uma variável identificadora
-    - Em seguida passará por um if cuja condição é que a variável verificadora contenha o valor comida
-    - Dentro desse if será feito o item.getValor e este será somado a variável soma através de +=
-    - Ao fim da varredura do for-each e saindo dele terá a linha final de impressão com a saída "Total de comida: 53.7" (System.out.println("Total de comida: " + soma)).
-    */
+        Item arroz = new Item("Arroz", "comida", 25.90);
+        Item sabao = new Item("Sabão", "limpeza", 12.50);
+        Item feijao = new Item("Feijão", "comida", 9.80);
+        Item detergente = new Item("Detergente", "limpeza", 3.20);
+        Item cafe = new Item("Café", "comida", 18.00);
+
+        List<Item> listaDeItens = new ArrayList<>(List.of(arroz, sabao, feijao, detergente, cafe));
+
+        final String CATEGORIA_DO_ITEM = "comida";
+        double soma = 0;
+
+        for(Item item : listaDeItens){
+            if(CATEGORIA_DO_ITEM.equals(item.getCategoria())){
+                soma += item.getValor();
+            }
+        }
+
+        System.out.printf("Total de %s: %.2f%n", CATEGORIA_DO_ITEM, soma);
+    }
 }
-
