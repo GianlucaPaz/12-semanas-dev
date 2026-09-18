@@ -269,3 +269,10 @@
 - 📝 Estudo do conteúdo relativo à perguntas de exercícios | 1) Por que a variável que acumula a soma precisa existir antes do laço? ; 2) Por que double não serve para valor monetário?
 
 ---
+
+### 📆 2026-09-17 | ⌛ 90 min sem IA (arquivo em branco)
+
+- 📝 Diagnóstico CSV (Java) - Tarefa 6 | 📍Local: pratica/src/diagnostico/fase1/tarefa6/Tarefa6.java | 👀Travei: Não | ✅Resolvi sozinho: Sim
+- 📝 Estudo do conteúdo relativo à perguntas de exercícios | 3) Por que se declara a variável como List e se cria como ArrayList? ; 4) Por que == não compara texto em Java?
+
+---
